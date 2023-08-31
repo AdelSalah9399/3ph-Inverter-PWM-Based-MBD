@@ -1,0 +1,15 @@
+project Description:
+
+The MATLAB Simulink code generation for a three-phase PWM-based inverter involves the development of a Simulink model and the generation of corresponding code to implement an inverter circuit that converts DC power to three-phase AC power with precise control over the output voltage waveform.
+A three-phase PWM-based inverter typically consists of six controlled switches (such as MOSFETs or IGBTs) arranged in a bridge configuration. The inverter circuit is designed to accept a DC input and produce a three-phase AC output signal with adjustable frequency, voltage magnitude, and waveform shape.
+In this project, a Simulink model is created to represent the three-phase PWM-based inverter. The model includes components such as DC voltage sources, controlled switches, filters, and load resistors. The control strategy for the inverter, such as sinusoidal pulse width modulation (SPWM), is implemented using appropriate control algorithms in Simulink.
+The Simulink model allows for the simulation and optimization of the inverter's performance, including harmonic distortion, voltage regulation, and switching losses. Once the model is validated, code generation is performed to generate executable code. The generated code can be deployed on hardware platforms, such as microcontrollers or DSPs, to implement the control algorithms and drive the switches in real-time applications.
+The MATLAB Simulink code generation for a three-phase PWM-based inverter offers a comprehensive solution for designing and implementing high-quality power conversion systems. It enables engineers to simulate, verify, and generate code for the inverter circuit, facilitating the development of efficient and precise control strategies for various AC power generation applications, including motor drives, renewable energy systems, and uninterruptible power supplies.
+
+
+
+
+
+.xls src file link:
+https://drive.google.com/drive/folders/123FEhY9tXMvXXpoBoAU8HyewzzqFTCK5?usp=drive_link
+
